@@ -131,8 +131,8 @@ export default function Hero() {
               <Image
                 src="/anujhero.png"
                 alt="Anuj Thakur — Full-Stack Developer"
-                width={768}
-                height={1365}
+                width={760}
+                height={788}
                 priority
                 className="h-auto w-full object-cover transition-transform duration-[1.2s] ease-out hover:scale-[1.03]"
               />
