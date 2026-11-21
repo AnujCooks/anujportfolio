@@ -129,10 +129,10 @@ export default function Hero() {
                 <span className="ml-3 font-mono text-[11px] text-faint">anuj.thakur — profile</span>
               </div>
               <Image
-                src="/avatar.webp"
+                src="/anujhero.png"
                 alt="Anuj Thakur — Full-Stack Developer"
-                width={760}
-                height={788}
+                width={768}
+                height={1365}
                 priority
                 className="h-auto w-full object-cover transition-transform duration-[1.2s] ease-out hover:scale-[1.03]"
               />
