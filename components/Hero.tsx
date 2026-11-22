@@ -129,7 +129,7 @@ export default function Hero() {
                 <span className="ml-3 font-mono text-[11px] text-faint">anuj.thakur — profile</span>
               </div>
               <Image
-                src="/anujhero.png"
+                src="/avatar.webp"
                 alt="Anuj Thakur — Full-Stack Developer"
                 width={760}
                 height={788}
